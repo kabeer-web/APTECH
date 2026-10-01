@@ -1,1 +1,1 @@
-# APTECH
+# aptech-class
